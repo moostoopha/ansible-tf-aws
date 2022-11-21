@@ -4,6 +4,8 @@
 
 >This code will Create VPC in frankfurt Region and subnet in three availability zone.
 
+> Please set your key name in the variables.tf file
+
 ### Setup Instructions
 
 >clone the repository
