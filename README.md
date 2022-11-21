@@ -1,6 +1,8 @@
 # ansible-tf-aws
 
-> Dynamic application of Nodejs with mongoDB master slave architecture DB resides in three diffrent regions for high Availability 
+> Dynamic application of Nodejs with mongoDB master slave architecture DB resides in three diffrent regions for high Availability
+
+>This code will Create VPC in frankfurt Region and subnet in three availability zone.
 
 ### Setup Instructions
 
